@@ -15,10 +15,10 @@ A Python 3 script to convert SonicWall `.exp` configuration backup files to a re
 Clone the repository:
 ```sh
 git clone https://github.com/yourusername/sonicwall-exp2text.git
-cd sonicwall-exp2text
+cd sonicwall-exp2text```
 
 **## Usage**
 Run the script with:
-`python3 sonicwall-exp2text.py`
+```python3 sonicwall-exp2text.py```
 
 
